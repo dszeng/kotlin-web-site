@@ -7,7 +7,7 @@ Kotlin User Groups are a great place to share your experience with the community
 
 The most common way to begin one is to find a few like-minded people and to get together and organize regular meetups for spreading knowledge on software development with Kotlin. If you feel like you need more ideas or advice on launching a user group, contact [alina@jetbrains.com](mailto:alina@jetbrains.com).
 
-## Kotlin User Groups (172)
+## Kotlin User Groups (176)
 
 <div class="g-grid">
 <div class="g-6" markdown="1">
@@ -78,6 +78,7 @@ The most common way to begin one is to find a few like-minded people and to get 
  * [Allahabad Kotlin User Group](https://www.facebook.com/Kotlin-Allahabad-User-Group-967463300076405/), India
  * [Azerbaijan Kotlin User Group](https://www.facebook.com/groups/395337754167951/), Azerbaijan
  * [Bangladesh Kotlin User Group](https://www.facebook.com/KotlinBangladesh/), Bangladesh
+ * [Batam Kotlin User Group](https://t.me/KotlinDevBatam), Indonesia
  * [Bengaluru Kotlin User Group](https://www.facebook.com/KotlinBengaluru/), India
  * [Bengaluru Kotlin 'BlrKotlin' Meetup ](https://www.meetup.com/BlrKotlin/), India
  * [Beijing Kotlin User Group](http://www.kotliner.cn/), China
@@ -146,6 +147,7 @@ The most common way to begin one is to find a few like-minded people and to get 
 * [Norfolk Kotlin User Group](mailto:robert.chrzanowski@gmail.com), USA
 * [Orange County Kotlin Meetup](https://www.meetup.com/oc-kotlin-meetup/), USA
 * [San Diego Kotlin User Group](https://www.meetup.com/sd-kotlin/), USA
+* [San Francisco Kotlin Meetup](https://www.meetup.com/San-Francisco-Kotlin-Meetup/), USA
 * [Santa Cruz Kotlin User Group](https://www.meetup.com/Santa-Cruz-Kotlin-User-Group/events/245895831/), USA
 * [South Florida Kotlin User Group](https://www.meetup.com/Kotlin-South-Florida-Users-Group/), USA
 * [Toronto Kotlin](https://www.meetup.com/Kotlin-Toronto/events/235740293/), Canada
@@ -196,8 +198,10 @@ The most common way to begin one is to find a few like-minded people and to get 
 * [Enugu Kotlin User Group](https://kotlin-enuguusergroup.slack.com/), Nigeria
 * [Fayoum Kotlin User Group](https://www.facebook.com/kdgfayoum/), Egypt
 * [Johannesburg Kotlin User Group](https://www.meetup.com/Kotlin-Software-Development-Meetup/), South Africa
+* [Kano Kotlin User Group](https://www.meetup.com/Kotlin-Kano-User-Group-Nigeria/), Nigeria
 * [Lagos Kotlin User Group](https://www.meetup.com/Lagos-Kotlin-Meetup/), Nigeria
 * [Lome Kotlin User Group](https://www.facebook.com/groups/1825278611119862/), Togo
+* [Minna Kotlin User Group](https://www.meetup.com/Kotlin-Minna-User-Group-Nigeria/), Nigeria
 * [Minya Kotlin User Group](https://www.facebook.com/kotlinminya/), Egypt
 * [Nairobi Kotlin User Group](https://www.meetup.com/KotlinKenya/), Kenya
 * [Noun Kotlin User Group](https://www.meetup.com/Noun-Kotlin-User-Group/), Cameroon
